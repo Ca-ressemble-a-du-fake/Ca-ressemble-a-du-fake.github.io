@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-08T12:00:15+02:00</updated><id>/feed.xml</id><title type="html">Ça ressemble à du fake</title><subtitle>Ingrédients : 100% issus d'informations presque fausses</subtitle><entry><title type="html">Comment utiliser la sangle de pieds de l’élastique de nage ?</title><link href="/enfilage-sangle-pieds/" rel="alternate" type="text/html" title="Comment utiliser la sangle de pieds de l’élastique de nage ?" /><published>2021-09-01T00:00:00+02:00</published><updated>2021-09-01T00:00:00+02:00</updated><id>/enfilage-sangle-pieds</id><content type="html" xml:base="/enfilage-sangle-pieds/">&lt;p&gt;Alors vous possédez une piscine chez vous et vous avez envie d’y nager en continu efficacement, sans avoir à percuter la paroi tous les 2 mouvements de brasse / crawl / dos / papillon ? La ceinture de nage est donc faite pour vous.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-09T07:58:38+02:00</updated><id>/feed.xml</id><title type="html">Ça ressemble à du fake</title><subtitle>Ingrédients : 100% issus d'informations presque fausses</subtitle><entry><title type="html">Comment savoir quelle distance on a nagé avec un élastique de nage ?</title><link href="/calcul-distance-nage/" rel="alternate" type="text/html" title="Comment savoir quelle distance on a nagé avec un élastique de nage ?" /><published>2021-09-03T00:00:00+02:00</published><updated>2021-09-03T00:00:00+02:00</updated><id>/calcul-distance-nage</id><content type="html" xml:base="/calcul-distance-nage/">&lt;p&gt;Si vous avez suivi notre précédent tutoriel sur l’utilisation de l’elastique de nage avec la sangle de pieds, vous vous demandez peut-être maintenant comment rester motivé(e) et continuer à enchainer les “longueurs”.&lt;/p&gt;
+
+&lt;h4 id=&quot;ahhhhhhhhhh-cest-affreusement-monotone-&quot;&gt;Ahhhhhhhhhh c’est affreusement monotone !&lt;/h4&gt;
+
+&lt;p&gt;Car là, à peine 5 minutes d’entrainement et déjà vous désespérez; faire du sur-place est extrêmement monotone. Vous aimeriez au moins savoir quelle distance vous auriez nagée si vous aviez été en bassin.&lt;/p&gt;
+
+&lt;p&gt;Heureusement, la méthode simple que je  vous propose ci-après va vous aider à rester concentré(e), et à savoir quelle distance vous avez nagé pendant votre séance.&lt;/p&gt;
+
+&lt;!-- Pub --&gt;
+
+&lt;h4 id=&quot;passâge-à-létalonnâge-de-la-nâge&quot;&gt;Passâge à l’étalonnâge de la nâge&lt;/h4&gt;
+
+&lt;p&gt;Afin de connaitre la distance parcourue en nageant avec l’élastique de natation, il va falloir étalonner vos mouvements. L’objectif de cet étalonnage est de connaitre la distance moyenne que vous parcourez sur chaque mouvement &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; de bras.
+Pour y parvenir, je vous propose deux méthodes simples. Dans ces méthodes, vous aurez seulement besoin de connaitre la longueur du bassin.&lt;/p&gt;
+
+&lt;h5 id=&quot;détour-via-la-piscine-municipale&quot;&gt;Détour via la piscine municipale&lt;/h5&gt;
+
+&lt;p&gt;La première méthode consiste à vous rendre en piscine municipale et à compter le nombre de mouvements  de bras que vous effectuez par longueur.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bien sûr, pour que la mesure soit bonne, il faut éviter, au départ ou au moment où vous repartez dans l’autre sens (culbute) de pousser contre le mur avec les jambes ou d’onduler. En effet, le but est de mesurer la distance parcourue pendant la nage complète (bras et jambes) en rythme établi.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ainsi lorsque vous parcourez 25 m en crawl, si vous comptez 18 mouvements de bras, c’est que 72 (cf \(18\times\frac{100}{25}\)) mouvements vous sont nécessaires pour parcourir 100 m.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;spoiler&quot;&gt;Si vous en avez la possibilité, vous pouvez aussi compter directement le nombre de mouvements sur 100 m, l’étalonnage n’en sera que plus précis.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;méthode-spéciale-confinement&quot;&gt;Méthode spéciale confinement&lt;/h5&gt;
+
+&lt;p&gt;Un dicton breton dit &lt;em&gt;“qu’on n’est jamais à l’abris d’un énième reconfinement”&lt;/em&gt;. En général cela implique des piscines municipales aux portes closes, c’est pourquoi je vous propose cette deuxième méthode qui vous servira aussisi vous n’avez pas accès facilement (ex: aux horaires d’ouverture) à une telle structure. Celle-ci ressemble à la première à ceci près que vous allez la réaliser directement dans votre bassin privé.&lt;/p&gt;
+
+&lt;p&gt;Comme avec la premère méthode, vous allez compter le nombre de mouvements de bras, mais au lieu de faire une seule longueur d’affilée, vous allez en enchainer cinq. Et surtout, vous n’allez pas pousser avec les jambes contre le mur lorsque vous repartirez dans l’autre sens!&lt;/p&gt;
+
+&lt;p&gt;Si vous comptabilisez 35 mouvements sur 5 longueurs dans une piscine de 10 m de long, vous avez donc en moyenne 7 mouvements par longueur, soit 70 mouvements par 100 m.&lt;/p&gt;
+
+&lt;h6 id=&quot;sous-méthode-spéciale-piscine-ronde&quot;&gt;Sous méthode spéciale piscine ronde&lt;/h6&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/above-ground-pool.jpg&quot; alt=&quot;Piscine hors-sol cylindrique&quot; title=&quot;Piscine hors-sol cylindrique&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bien sûr, il sera plus facile de mettre en oeuvre cette méthode dans une piscine rectangulaire de 10 m de long que dans une piscine cylindrique de 4 m de diamètre. Mais, si votre piscine est cylindrique vous pourrez tout de même avoir une mesure en appliquant le protocole suivant.&lt;/p&gt;
+
+&lt;p&gt;Vous essaierez alors de nager 4 tours en crawl le plus au bord possible, tout en comptant le nombre de mouvements. Vous multiplierez ensuite le nombre obtenu par le coefficient empirique 0,75 &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; pour obtenir le nombre de mouvements que vous auriez effectué sur un trajet plus rectiligne.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Par exemple, vous comptez 44 mouvements sur 4 tours de votre piscine de 4 m de diamètre. La distance de chaque tour est d’environ 12 m (\(4\times\pi\) avec \(\pi\approx3\) pour faciliter les calculs).  Cela vous donne donc environ 88 mouvements sur 100 m (cf 4 tours \(\approx48m\approx50m\) donc \(44\times\frac{100}{50}\) mouvements sur 100 m). Vous appliquez ensuite le coefficient de correction empirique et vous obtenez 66 mouvements sur 100 m (cf \(88\times0,75\))&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Evidemment les résultats donnés ici sont approximatifs, car ce n’est pas un cours de mathématiques, mais vous pouvez les effectuer de manière plus précise.&lt;/p&gt;
+
+&lt;h4 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;Et voilà, maintenant vous êtes en mesure de vous prévoir des entrainements pros 4 nages top moumoutes dans votre petit bassin privé et de suivre en temps réel votre avancement, comme vous le feriez en piscine municipale. À vous donc les 400 libres, 200 crawl, 200 dos, 50 pap’ 50 brasse x 4, 100 récup ! D’ailleurs, en parlant de “quatre nages”, il vous faudra aussi étalonner chaque nage que vous souhaitez inclure dans votre entrainement (en général, en amateur, on fait un peu plus de mouvements en dos et beaucoup moins de mouvements en brasse et papillon, qu’en crawl).&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;On parle ici de mouvement lorsqu’un bras effectue un cycle complet et revient dans sa position initiale (lorsqu’il pénetre dans l’eau après son trajet aérien). &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;On multiplie par ce coefficient car on est obligé de faire plus de mouvements en bassin cylindrique pour corriger la trajectoire et suivre le bord. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>anatole</name></author><category term="sport" /><category term="natation" /><category term="tutoriel" /><category term="ceinture de nage" /><category term="piscine" /><summary type="html">Si vous avez suivi notre précédent tutoriel sur l’utilisation de l’elastique de nage avec la sangle de pieds, vous vous demandez peut-être maintenant comment rester motivé(e) et continuer à enchainer les “longueurs”.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/static-swim-distance.jpg" /><media:content medium="image" url="/assets/images/static-swim-distance.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Comment utiliser la sangle de pieds de l’élastique de nage ?</title><link href="/enfilage-sangle-pieds/" rel="alternate" type="text/html" title="Comment utiliser la sangle de pieds de l’élastique de nage ?" /><published>2021-09-01T00:00:00+02:00</published><updated>2021-09-01T00:00:00+02:00</updated><id>/enfilage-sangle-pieds</id><content type="html" xml:base="/enfilage-sangle-pieds/">&lt;p&gt;Alors vous possédez une piscine chez vous et vous avez envie d’y nager en continu efficacement, sans avoir à percuter la paroi tous les 2 mouvements de brasse / crawl / dos / papillon ? La ceinture de nage est donc faite pour vous.&lt;/p&gt;
 
 &lt;h4 id=&quot;quand-utiliser-la-sangle-de-pieds-&quot;&gt;Quand utiliser la sangle de pieds ?&lt;/h4&gt;
 
@@ -7,6 +65,8 @@
 &lt;h4 id=&quot;comment-bien-mettre-la-sangle-de-pieds-&quot;&gt;Comment bien mettre la sangle de pieds ?&lt;/h4&gt;
 
 &lt;p&gt;Donc maintenant qu’il est clair que vous voulez mettre la sangle au niveau des pieds, reste à savoir comment la mettre : au niveau des chevilles, sur le devant, le milieu, le talon du pied ? Et comment faire pour qu’elle ne se détende pas pendant la nage ? C’est ce que nous allons détailler tout de suite.&lt;/p&gt;
+
+&lt;!-- Pub --&gt;
 
 &lt;h5 id=&quot;un-mode-demploi-sur-les-étiquettes-&quot;&gt;Un mode d’emploi sur les étiquettes ?&lt;/h5&gt;
 
@@ -50,4 +110,4 @@
 
 &lt;h4 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h4&gt;
 
-&lt;p&gt;En résumé, cette ceinture de nage est très pratique pour nager sans s’arrêter dans une petite piscine privée. Cependant pour nager dans toutes les nages, il vaut mieux utiliser la sangle de pieds qui autorise tous les mouvements et reste bien confortablement attachée quand elle est bien mise ! Et voilà, maitenant, il ne vous reste plus qu’à enchainer les longueurs (virtuellement) ! Bon entrainement 🏊!&lt;/p&gt;</content><author><name>Anatole</name></author><category term="sport" /><category term="natation" /><category term="tutoriel" /><category term="ceinture de nage" /><category term="piscine" /><summary type="html">Alors vous possédez une piscine chez vous et vous avez envie d’y nager en continu efficacement, sans avoir à percuter la paroi tous les 2 mouvements de brasse / crawl / dos / papillon ? La ceinture de nage est donc faite pour vous.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/static-swim-tie-in-feet.jpg" /><media:content medium="image" url="/assets/images/static-swim-tie-in-feet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;En résumé, cette ceinture de nage est très pratique pour nager sans s’arrêter dans une petite piscine privée. Cependant pour nager dans toutes les nages, il vaut mieux utiliser la sangle de pieds qui autorise tous les mouvements et reste bien confortablement attachée quand elle est bien mise ! Et voilà, maitenant, il ne vous reste plus qu’à enchainer les longueurs (virtuellement) ! Bon entrainement 🏊!&lt;/p&gt;</content><author><name>anatole</name></author><category term="sport" /><category term="natation" /><category term="tutoriel" /><category term="ceinture de nage" /><category term="piscine" /><summary type="html">Alors vous possédez une piscine chez vous et vous avez envie d’y nager en continu efficacement, sans avoir à percuter la paroi tous les 2 mouvements de brasse / crawl / dos / papillon ? La ceinture de nage est donc faite pour vous.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/static-swim-tie-in-feet.jpg" /><media:content medium="image" url="/assets/images/static-swim-tie-in-feet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
