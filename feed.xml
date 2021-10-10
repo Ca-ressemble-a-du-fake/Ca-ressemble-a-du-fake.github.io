@@ -1,8 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-09T16:48:47+02:00</updated><id>/feed.xml</id><title type="html">Ça ressemble à du fake</title><subtitle>Ingrédients : 100% issus d'informations presque fausses</subtitle><entry><title type="html">Comment savoir quelle distance on a nagé avec un élastique de nage ?</title><link href="/calcul-distance-nage/" rel="alternate" type="text/html" title="Comment savoir quelle distance on a nagé avec un élastique de nage ?" /><published>2021-09-03T00:00:00+02:00</published><updated>2021-09-03T00:00:00+02:00</updated><id>/calcul-distance-nage</id><content type="html" xml:base="/calcul-distance-nage/">&lt;p&gt;Si vous avez suivi notre précédent tutoriel sur l’utilisation de l’elastique de nage avec la sangle de pieds, vous vous demandez peut-être maintenant comment rester motivé(e) et continuer à enchainer les “longueurs”.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-10T15:44:49+02:00</updated><id>/feed.xml</id><title type="html">Ça ressemble à du fake</title><subtitle>Ingrédients : 100% issus d'informations presque fausses</subtitle><entry><title type="html">Ce jeu devrait être mis entre toutes les mains avant de prendre le volant</title><link href="/accident-the-game/" rel="alternate" type="text/html" title="Ce jeu devrait être mis entre toutes les mains avant de prendre le volant" /><published>2021-09-21T00:00:00+02:00</published><updated>2021-09-21T00:00:00+02:00</updated><id>/accident-the-game</id><content type="html" xml:base="/accident-the-game/">&lt;p&gt;Vous vous sentez l’étoffe d’un bon Samaritain ? Alors le jeu vidéo &lt;em&gt;Accident&lt;/em&gt; -édité par &lt;em&gt;Duality Games&lt;/em&gt; et qui sort sur la plateforme &lt;em&gt;Steam&lt;/em&gt; tout juste aujourd’hui- &lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; risque de vous plaire et de vous faire passer de bonnes heures devant l’écran (⚠️ mais pas des semaines ⚠️).&lt;/p&gt;
+
+&lt;h4 id=&quot;présentation-du-jeu-accident&quot;&gt;Présentation du jeu Accident&lt;/h4&gt;
+
+&lt;p&gt;Officiellement, vous incarnez un(e) journaliste qui enquête sur des cas non résolus d’accidents arrivés par le passé. Par je ne sais quel principe méta-physique &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; vous vous retrouvez ensuite au cœur de ces accidents et vous devez alors porter secours aux différentes victimes. Une fois les victimes secourues, vous ramasserez les indices présents sur les lieux et reconstituerez le scénario de l’accident. Mais trêve de mots, et passons aux images!&lt;/p&gt;
+
+&lt;!-- Pub --&gt;
+
+&lt;html&gt;
+&lt;iframe width=&quot;910&quot; height=&quot;511&quot; src=&quot;https://www.youtube.com/embed/TWAQ0OBkEfc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/html&gt;
+
+&lt;h4 id=&quot;à-qui-est-il-destiné-&quot;&gt;À qui est-il destiné ?&lt;/h4&gt;
+
+&lt;p&gt;Maintenant que vous avez vu à quoi ressemble le jeu, voyons quel public peut y jouer. Mais avant cela, soyez conscient(e) que des images potentiellement choquantes &lt;sup id=&quot;fnref:1bis&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1bis&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; font partie intégrante du jeu. Ainsi, un avertissement au lancement du jeu annonce la couleur : &lt;em&gt;ce jeu contient des scènes sanglantes&lt;/em&gt;. Vous êtes prévenus !&lt;/p&gt;
+
+&lt;p&gt;Il faudra donc s’assurer de la compatibilité du contenu avec la sensibilité du joueur, notamment si c’est un enfant (et le cas échéant peut-être l’accompagner).&lt;/p&gt;
+
+&lt;p&gt;Sinon, si l’enfant est motivé et manipule déjà la souris, on peut lui confier le jeu sans problème à partir de 9 ans, pour lui inculquer les bons réflexes à adopter en cas d’accidents.&lt;/p&gt;
+
+&lt;h4 id=&quot;quel-matériel-est-nécessaire-pour-y-jouer-confortablement-&quot;&gt;Quel matériel est nécessaire pour y jouer confortablement ?&lt;/h4&gt;
+
+&lt;p&gt;Commençons par les besoins en processeur central et mémoire vive. L’éditeur recommande un Intel Core i7-6700 @ 3,40 GHz (4 CPUs) avec 8 GB RAM, une carte graphique NVidia GeForce GTX 1060 6GB, pour jouer de manière optimale.&lt;/p&gt;
+
+&lt;p&gt;Dans les faits, le jeu a été utilisé (sous Linux) sur un ordinateur équipé d’un processeur datant de 2011 (core i7 2700k) et de 12 GO de mémoire vive. Il s’est révélé fluide. Donc de ce côté là, les besoins ne sont pas immenses.&lt;/p&gt;
+
+&lt;p&gt;Cependant, pour profiter de la beauté des graphismes et bien s’immerger dans les différentes scènes, ce matériel doit être plutôt bien épaulé. Ainsi chez Nvidia, une &lt;em&gt;GTX 1660 super&lt;/em&gt; offre encore de belles saccades et les déplacements sont parfois longs avec les détails au maximum. Étonnant alors que l’éditeur recommande un &lt;em&gt;GTX 1060&lt;/em&gt; &lt;sup id=&quot;fnref:1ter&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1ter&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. &lt;strong&gt;Par contre une RTX 3070 offre une excellente fluidité et l’immersion est encore plus poignante.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Côté espace disque, comme souvent avec les jeux qui utilisent des graphismes haute-définition, votre disque sera amputé de plusieurs dizaines de GO (ici 18 GO)! Il faudra bien sûr télécharger tout ça, donc prévoyez une bonne connexion (fibre, 4G ou mieux), ou armez-vous de patience 🐌!&lt;/p&gt;
+
+&lt;h4 id=&quot;verdict&quot;&gt;Verdict&lt;/h4&gt;
+
+&lt;p&gt;Vous l’aurez compris, je n’ai pas bien saisi l’histoire du casque de réalité virtuelle qui permet d’intervenir sur des accidents dans le passé. Si on laisse cet aspect de côté et qu’on se téléporte sur les lieux d’un accident où l’on devient le primo-intervenant, alors on se prend vite au jeu et on s’éclate!&lt;/p&gt;
+
+&lt;h5 id=&quot;des-actions-à-répéter-sans-lassitude&quot;&gt;Des actions à répéter… sans lassitude&lt;/h5&gt;
+
+&lt;p&gt;On s’éclate, malgré la répétition des actions &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; à effectuer au travers des différentes scènes d’accidents. Car le jeu n’est en rien monotone et devient palpitant lorsqu’il faut trouver l’action à mener pour sauver la vie des victimes.   On s’immerge avec joie (et un peu de stress parfois) dans cette atmosphère réaliste.&lt;/p&gt;
+
+&lt;h5 id=&quot;du-réalisme-et-de-la-logique&quot;&gt;Du réalisme et de la logique&lt;/h5&gt;
+
+&lt;p&gt;Et en parlant de réalisme, les actions de secours à mener relèvent toutes de la logique, aucune n’est capillotractée et l’on comprend d’instinct ce qu’il faut faire. Si l’on est bloqué, il suffit de prendre du recul quelques secondes, penser à ce qu’on ferait dans la vraie vie, et la conduite à tenir apparaît tout de suite. Comme si les concepteurs du jeu avaient réussi le tour de force de recréer un langage universel du secourisme.&lt;/p&gt;
+
+&lt;h5 id=&quot;quelques-difficultés-tout-de-même-&quot;&gt;Quelques difficultés tout de même …&lt;/h5&gt;
+
+&lt;p&gt;Toutefois certaines scènes sont parfois un peu incompréhensibles. Par exemple celle avec le camion de prisonniers dans les années 70, où l’on nous propose d’ouvrir un frigo invisible au milieu d’une voie ferrée. C’est un peu déroutant, mais comme le jeu se veut réaliste, à force, on comprend que c’est un problème d’affichage et qu’il faut chercher ailleurs.&lt;/p&gt;
+
+&lt;p&gt;Dans un tout autre registre, l’extinction des feux de voitures revêt parfois une difficulté particulière. En effet, sur certains accidents (celui sur la Côte d’Azur vient de suite à l’esprit), on ne sait pas comment éteindre le feu et où il faut viser exactement. Il faut alors recommencer la scène en essayant de viser autre part et au bout d’un moment ça fonctionne, le feu s’arrête, sans qu’on comprenne vraiment pourquoi.&lt;/p&gt;
+
+&lt;h5 id=&quot;-et-une-durée-de-vie-limitée-&quot;&gt;… et une durée de vie limitée …&lt;/h5&gt;
+
+&lt;p&gt;Pour un enfant de 9 ans, les compteurs de Steam affichent &lt;strong&gt;14h&lt;/strong&gt; de jeu après qu’il a terminé la dernière mission disponible.&lt;/p&gt;
+
+&lt;p&gt;Pour le prix, ce n’est pas très long.  Mais si l’on considère l’intérêt pédagogique, ces quelques heures suffisent amplement pour faire passer des messages sur les comportements à bannir quand on est au volant, et sur les bons réflexes à adopter en cas d’accident (ex : appeler les secours au 112, baliser la zone, …), surtout auprès des enfants / adolescents.&lt;/p&gt;
+
+&lt;h5 id=&quot;-mais-rien-de-rédhibitoire&quot;&gt;… mais rien de rédhibitoire&lt;/h5&gt;
+
+&lt;p&gt;Hormis cela, on prend du plaisir, les ambiances sonore et visuelle sont poignantes, si bien qu’on se prend facilement au jeu et qu’on oublie les petits défauts cités précédemment. En plus, on peut jouer directement sous Linux.&lt;/p&gt;
+
+&lt;h4 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Accident&lt;/em&gt; est donc un jeu vidéo très réaliste, compatible Linux (donc normalement &lt;em&gt;OS X&lt;/em&gt; aussi). Il est en outre intéressant pour faire prendre conscience aux enfants / adolescents des bons comportements à adopter quand ils seront au volant (ex: pas de SMS en conduisant), ou s’ils sont primo-intervenants sur le lieu d’un accident. Ils pourront ainsi acquérir les automatismes pour sauver des vies dans la réalité. En effet, à force de répétitions, le joueur intègre de manière ludique la chronologie des actions à mener :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;appeler les secours,&lt;/li&gt;
+  &lt;li&gt;leur communiquer la position de l’accident,&lt;/li&gt;
+  &lt;li&gt;poser le balisage,&lt;/li&gt;
+  &lt;li&gt;éviter le sur-accident,&lt;/li&gt;
+  &lt;li&gt;effectuer le bilan de la victime (conscience, respiration, plaies, traumatisme),&lt;/li&gt;
+  &lt;li&gt;effectuer les gestes de premier secours.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Si vous souhaitez obtenir de l’aide sur ce jeu, ne manquez pas notre prochain article où l’on vous proposera la solution des différents accidents.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Le jeu était disponible depuis quelques mois en avant-première. &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;On aperçoit un casque de réalité virtuelle que le journaliste qu’on incarne chausse sur sa tête après avoir inséré le DVD de l’accident dans son ordi. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1bis&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Il n’y a pas de violence mais du sang, des plaies, des personnes blessées ou mortes. &lt;a href=&quot;#fnref:1bis&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1ter&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Notez tout de même que comme indiqué plus haut, le jeu a été utilisé sous Linux (bien qu’il ne fasse pas partie de la &lt;a href=&quot;http://store.steampowered.com/browse/linux/?snr=&quot;&gt;liste officielle des jeux Windows pouvant fonctionner sous Linux&lt;/a&gt;). Par conséquent, il fonctionne par l’intermédiaire d’une couche logicielle d’émulation (&lt;a href=&quot;https://fr.wikipedia.org/wiki/Proton_(logiciel)&quot;&gt;Proton&lt;/a&gt;), puisqu’il a été conçu pour fonctionner sous Windows. Donc sous Windows les besoins matériels pourraient être inférieurs. À vous de tester, d’autant plus qu’une version de démo existe pour se faire une bonne idée du jeu. &lt;a href=&quot;#fnref:1ter&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Quelles que soient les scènes d’accidents sur lesquelles vous allez intervenir, vous devrez répéter les mêmes actions : Appeler les secours / Déterminer votre position / Signaler l’accident pour éviter le sur-accident / Prendre les mesures d’urgence (éteindre le feu, stabiliser un véhicule, …) / Faire le bilan des victimes / Effectuer les gestes de premier secours &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>anatole</name></author><category term="jeu vidéo" /><category term="premiers secours" /><category term="accident" /><category term="secourisme" /><summary type="html">Vous vous sentez l’étoffe d’un bon Samaritain ? Alors le jeu vidéo Accident -édité par Duality Games et qui sort sur la plateforme Steam tout juste aujourd’hui- 1 risque de vous plaire et de vous faire passer de bonnes heures devant l’écran (⚠️ mais pas des semaines ⚠️). Le jeu était disponible depuis quelques mois en avant-première. &amp;#8617;</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/accident.jpg" /><media:content medium="image" url="/assets/images/accident.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Comment savoir quelle distance on a nagé avec un élastique de nage ?</title><link href="/calcul-distance-nage/" rel="alternate" type="text/html" title="Comment savoir quelle distance on a nagé avec un élastique de nage ?" /><published>2021-09-03T00:00:00+02:00</published><updated>2021-09-03T00:00:00+02:00</updated><id>/calcul-distance-nage</id><content type="html" xml:base="/calcul-distance-nage/">&lt;p&gt;Si vous avez suivi notre précédent tutoriel sur l’utilisation de l’élastique de nage avec la sangle de pieds, vous vous demandez peut-être maintenant comment rester motivé(e) et continuer à enchaîner les “longueurs”.&lt;/p&gt;
 
 &lt;h4 id=&quot;ahhhhhhhhhh-cest-affreusement-monotone-&quot;&gt;Ahhhhhhhhhh c’est affreusement monotone !&lt;/h4&gt;
 
-&lt;p&gt;Car là, à peine 5 minutes d’entrainement et déjà vous désespérez; faire du sur-place est extrêmement monotone. Vous aimeriez au moins savoir quelle distance vous auriez nagée si vous aviez été en bassin.&lt;/p&gt;
+&lt;p&gt;Car là, à peine 5 minutes d’entraînement et déjà vous désespérez; faire du sur-place est extrêmement monotone. Vous aimeriez au moins savoir quelle distance vous auriez nagée si vous aviez été en bassin.&lt;/p&gt;
 
 &lt;p&gt;Heureusement, la méthode simple que je  vous propose ci-après va vous aider à rester concentré(e), et à savoir quelle distance vous avez nagé pendant votre séance.&lt;/p&gt;
 
@@ -10,8 +100,8 @@
 
 &lt;h4 id=&quot;passâge-à-létalonnâge-de-la-nâge&quot;&gt;Passâge à l’étalonnâge de la nâge&lt;/h4&gt;
 
-&lt;p&gt;Afin de connaitre la distance parcourue en nageant avec l’élastique de natation, il va falloir étalonner vos mouvements. L’objectif de cet étalonnage est de connaitre la distance moyenne que vous parcourez sur chaque mouvement &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; de bras.
-Pour y parvenir, je vous propose deux méthodes simples. Dans ces méthodes, vous aurez seulement besoin de connaitre la longueur du bassin.&lt;/p&gt;
+&lt;p&gt;Afin de connaître la distance parcourue en nageant avec l’élastique de natation, il va falloir étalonner vos mouvements. L’objectif de cet étalonnage est de connaître la distance moyenne que vous parcourez sur chaque mouvement &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; de bras.
+Pour y parvenir, je vous propose deux méthodes simples. Dans ces méthodes, vous aurez seulement besoin de connaître la longueur du bassin.&lt;/p&gt;
 
 &lt;h5 id=&quot;détour-via-la-piscine-municipale&quot;&gt;Détour via la piscine municipale&lt;/h5&gt;
 
@@ -25,9 +115,9 @@ Pour y parvenir, je vous propose deux méthodes simples. Dans ces méthodes, vou
 
 &lt;h5 id=&quot;méthode-spéciale-confinement&quot;&gt;Méthode spéciale confinement&lt;/h5&gt;
 
-&lt;p&gt;Un dicton breton dit &lt;em&gt;“qu’on n’est jamais à l’abris d’un énième reconfinement”&lt;/em&gt;. En général cela implique des piscines municipales aux portes closes, c’est pourquoi je vous propose cette deuxième méthode qui vous servira aussisi vous n’avez pas accès facilement (ex: aux horaires d’ouverture) à une telle structure. Celle-ci ressemble à la première à ceci près que vous allez la réaliser directement dans votre bassin privé.&lt;/p&gt;
+&lt;p&gt;Un dicton breton dit &lt;em&gt;“qu’on n’est jamais à l’abri d’un énième reconfinement”&lt;/em&gt;. En général cela implique des piscines municipales aux portes closes, c’est pourquoi je vous propose cette deuxième méthode qui vous servira aussi vous n’avez pas accès facilement (ex: aux horaires d’ouverture) à une telle structure. Celle-ci ressemble à la première à ceci près que vous allez la réaliser directement dans votre bassin privé.&lt;/p&gt;
 
-&lt;p&gt;Comme avec la premère méthode, vous allez compter le nombre de mouvements de bras, mais au lieu de faire une seule longueur d’affilée, vous allez en enchainer cinq. Et surtout, vous n’allez pas pousser avec les jambes contre le mur lorsque vous repartirez dans l’autre sens!&lt;/p&gt;
+&lt;p&gt;Comme avec la première méthode, vous allez compter le nombre de mouvements de bras, mais au lieu de faire une seule longueur d’affilée, vous allez en enchaîner cinq. Et surtout, vous n’allez pas pousser avec les jambes contre le mur lorsque vous repartirez dans l’autre sens!&lt;/p&gt;
 
 &lt;p&gt;Si vous comptabilisez 35 mouvements sur 5 longueurs dans une piscine de 10 m de long, vous avez donc en moyenne 7 mouvements par longueur, soit 70 mouvements par 100 m.&lt;/p&gt;
 
@@ -35,32 +125,32 @@ Pour y parvenir, je vous propose deux méthodes simples. Dans ces méthodes, vou
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/above-ground-pool.jpg&quot; alt=&quot;Piscine hors-sol cylindrique&quot; title=&quot;Piscine hors-sol cylindrique&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Bien sûr, il sera plus facile de mettre en oeuvre cette méthode dans une piscine rectangulaire de 10 m de long que dans une piscine cylindrique de 4 m de diamètre. Mais, si votre piscine est cylindrique vous pourrez tout de même avoir une mesure en appliquant le protocole suivant.&lt;/p&gt;
+&lt;p&gt;Bien sûr, il sera plus facile de mettre en œuvre cette méthode dans une piscine rectangulaire de 10 m de long que dans une piscine cylindrique de 4 m de diamètre. Mais, si votre piscine est cylindrique vous pourrez tout de même avoir une mesure en appliquant le protocole suivant.&lt;/p&gt;
 
 &lt;p&gt;Vous essaierez alors de nager 4 tours en crawl le plus au bord possible, tout en comptant le nombre de mouvements. Vous multiplierez ensuite le nombre obtenu par le coefficient empirique 0,75 &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; pour obtenir le nombre de mouvements que vous auriez effectué sur un trajet plus rectiligne.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Par exemple, vous comptez 44 mouvements sur 4 tours de votre piscine de 4 m de diamètre. La distance de chaque tour est d’environ 12 m (\(4\times\pi\) avec \(\pi\approx3\) pour faciliter les calculs).  Cela vous donne donc environ 88 mouvements sur 100 m (cf 4 tours \(\approx48m\approx50m\) donc \(44\times\frac{100}{50}\) mouvements sur 100 m). Vous appliquez ensuite le coefficient de correction empirique et vous obtenez 66 mouvements sur 100 m (cf \(88\times0,75\))&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Evidemment les résultats donnés ici sont approximatifs, car ce n’est pas un cours de mathématiques, mais vous pouvez les effectuer de manière plus précise.&lt;/p&gt;
+&lt;p&gt;Évidemment les résultats donnés ici sont approximatifs, car ce n’est pas un cours de mathématiques, mais vous pouvez les effectuer de manière plus précise.&lt;/p&gt;
 
 &lt;h4 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h4&gt;
 
-&lt;p&gt;Et voilà, maintenant vous êtes en mesure de vous prévoir des entrainements pros 4 nages top moumoutes dans votre petit bassin privé et de suivre en temps réel votre avancement, comme vous le feriez en piscine municipale. À vous donc les 400 libres, 200 crawl, 200 dos, 50 pap’ 50 brasse x 4, 100 récup ! D’ailleurs, en parlant de “quatre nages”, il vous faudra aussi étalonner chaque nage que vous souhaitez inclure dans votre entrainement (en général, en amateur, on fait un peu plus de mouvements en dos et beaucoup moins de mouvements en brasse et papillon, qu’en crawl).&lt;/p&gt;
+&lt;p&gt;Et voilà, maintenant vous êtes en mesure de vous prévoir des entraînements pros 4 nages top moumoutes dans votre petit bassin privé et de suivre en temps réel votre avancement, comme vous le feriez en piscine municipale. À vous donc les 400 libres, 200 crawl, 200 dos, 50 pap’ 50 brasse x 4, 100 récup ! D’ailleurs, en parlant de “quatre nages”, il vous faudra aussi étalonner chaque nage que vous souhaitez inclure dans votre entraînement (en général, en amateur, on fait un peu plus de mouvements en dos et beaucoup moins de mouvements en brasse et papillon, qu’en crawl).&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;On parle ici de mouvement lorsqu’un bras effectue un cycle complet et revient dans sa position initiale (lorsqu’il pénetre dans l’eau après son trajet aérien). &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;On parle ici de mouvement lorsqu’un bras effectue un cycle complet et revient dans sa position initiale (lorsqu’il pénètre dans l’eau après son trajet aérien). &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
       &lt;p&gt;On multiplie par ce coefficient car on est obligé de faire plus de mouvements en bassin cylindrique pour corriger la trajectoire et suivre le bord. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>anatole</name></author><category term="sport" /><category term="natation" /><category term="tutoriel" /><category term="ceinture de nage" /><category term="piscine" /><summary type="html">Si vous avez suivi notre précédent tutoriel sur l’utilisation de l’elastique de nage avec la sangle de pieds, vous vous demandez peut-être maintenant comment rester motivé(e) et continuer à enchainer les “longueurs”.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/static-swim-distance.jpg" /><media:content medium="image" url="/assets/images/static-swim-distance.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Comment utiliser la sangle de pieds de l’élastique de nage ?</title><link href="/enfilage-sangle-pieds/" rel="alternate" type="text/html" title="Comment utiliser la sangle de pieds de l’élastique de nage ?" /><published>2021-09-01T00:00:00+02:00</published><updated>2021-09-01T00:00:00+02:00</updated><id>/enfilage-sangle-pieds</id><content type="html" xml:base="/enfilage-sangle-pieds/">&lt;p&gt;Alors vous possédez une piscine chez vous et vous avez envie d’y nager en continu efficacement, sans avoir à percuter la paroi tous les 2 mouvements de brasse / crawl / dos / papillon ? La ceinture de nage est donc faite pour vous.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>anatole</name></author><category term="sport" /><category term="natation" /><category term="tutoriel" /><category term="ceinture de nage" /><category term="piscine" /><summary type="html">Si vous avez suivi notre précédent tutoriel sur l’utilisation de l’élastique de nage avec la sangle de pieds, vous vous demandez peut-être maintenant comment rester motivé(e) et continuer à enchaîner les “longueurs”.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/static-swim-distance.jpg" /><media:content medium="image" url="/assets/images/static-swim-distance.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Comment utiliser la sangle de pieds de l’élastique de nage ?</title><link href="/enfilage-sangle-pieds/" rel="alternate" type="text/html" title="Comment utiliser la sangle de pieds de l’élastique de nage ?" /><published>2021-09-01T00:00:00+02:00</published><updated>2021-09-01T00:00:00+02:00</updated><id>/enfilage-sangle-pieds</id><content type="html" xml:base="/enfilage-sangle-pieds/">&lt;p&gt;Alors vous possédez une piscine chez vous et vous avez envie d’y nager en continu efficacement, sans avoir à percuter la paroi tous les 2 mouvements de brasse / crawl / dos / papillon ? La ceinture de nage est donc faite pour vous.&lt;/p&gt;
 
 &lt;h4 id=&quot;quand-utiliser-la-sangle-de-pieds-&quot;&gt;Quand utiliser la sangle de pieds ?&lt;/h4&gt;
 
-&lt;p&gt;Si pour nager la brasse peinarde la sangle ventrale convient, pour s’entrainer sur les autres nages, la sangle de pieds s’impmose vite. En effet, la ceinture ventrale a tendance à tirer le bassin vers le haut et l’arrière ce qui a pour conséquence d’incliner le corps et de faire tomber les jambes. Certains sont génés par cette position inclinée lorsqu’ils nagent le crawl, la dos ou le papillon. C’est pourquoi pour ces nages là, passser la sangle au niveau des pieds est recommandé.&lt;/p&gt;
+&lt;p&gt;Si pour nager la brasse peinarde la sangle ventrale convient, pour s’entraîner sur les autres nages, la sangle de pieds s’impose vite. En effet, la ceinture ventrale a tendance à tirer le bassin vers le haut et l’arrière ce qui a pour conséquence d’incliner le corps et de faire tomber les jambes. Certains sont gênés par cette position inclinée lorsqu’ils nagent le crawl, la dos ou le papillon. C’est pourquoi pour ces nages là, passer la sangle au niveau des pieds est recommandé.&lt;/p&gt;
 
 &lt;h4 id=&quot;comment-bien-mettre-la-sangle-de-pieds-&quot;&gt;Comment bien mettre la sangle de pieds ?&lt;/h4&gt;
 
@@ -70,11 +160,11 @@ Pour y parvenir, je vous propose deux méthodes simples. Dans ces méthodes, vou
 
 &lt;h5 id=&quot;un-mode-demploi-sur-les-étiquettes-&quot;&gt;Un mode d’emploi sur les étiquettes ?&lt;/h5&gt;
 
-&lt;p&gt;Des pictogrames placés sur les sangles de pieds montrent comment les enfiler. Mais ce n’est pas toujours simple de les comprendre.&lt;/p&gt;
+&lt;p&gt;Des pictogrammes placés sur les sangles de pieds montrent comment les enfiler. Mais ce n’est pas toujours simple de les comprendre.&lt;/p&gt;
 
 &lt;h5 id=&quot;idée-générale&quot;&gt;Idée générale&lt;/h5&gt;
 
-&lt;p&gt;L’idée générale à avoir en tête est que la partie de la sangle qui est reliée vers le point fixe doit partir de la voute plantaire. Les fermetures à clips doivent elles être placées vers l’extérieur du pied pour éviter que lors du battement de crawl ou de dos, les lanières s’entrechoquent et se détendent.&lt;/p&gt;
+&lt;p&gt;L’idée générale à avoir en tête est que la partie de la sangle qui est reliée vers le point fixe doit partir de la voûte plantaire. Les fermetures à clips doivent elles être placées vers l’extérieur du pied pour éviter que lors du battement de crawl ou de dos, les lanières s’entrechoquent et se détendent.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/static-swim-tie-in-feet.jpg&quot; alt=&quot;Sangle correctement mise en place&quot; title=&quot;Sangle correctement mise en place&quot; /&gt;&lt;/p&gt;
 
@@ -110,4 +200,4 @@ Pour y parvenir, je vous propose deux méthodes simples. Dans ces méthodes, vou
 
 &lt;h4 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h4&gt;
 
-&lt;p&gt;En résumé, cette ceinture de nage est très pratique pour nager sans s’arrêter dans une petite piscine privée. Cependant pour nager dans toutes les nages, il vaut mieux utiliser la sangle de pieds qui autorise tous les mouvements et reste bien confortablement attachée quand elle est bien mise ! Et voilà, maitenant, il ne vous reste plus qu’à enchainer les longueurs (virtuellement) ! Bon entrainement 🏊!&lt;/p&gt;</content><author><name>anatole</name></author><category term="sport" /><category term="natation" /><category term="tutoriel" /><category term="ceinture de nage" /><category term="piscine" /><summary type="html">Alors vous possédez une piscine chez vous et vous avez envie d’y nager en continu efficacement, sans avoir à percuter la paroi tous les 2 mouvements de brasse / crawl / dos / papillon ? La ceinture de nage est donc faite pour vous.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/static-swim-tie-in-feet.jpg" /><media:content medium="image" url="/assets/images/static-swim-tie-in-feet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;En résumé, cette ceinture de nage est très pratique pour nager sans s’arrêter dans une petite piscine privée. Cependant pour nager dans toutes les nages, il vaut mieux utiliser la sangle de pieds qui autorise tous les mouvements et reste bien confortablement attachée quand elle est bien mise ! Et voilà, maintenant, il ne vous reste plus qu’à enchaîner les longueurs (virtuellement) ! Bon entraînement 🏊!&lt;/p&gt;</content><author><name>anatole</name></author><category term="sport" /><category term="natation" /><category term="tutoriel" /><category term="ceinture de nage" /><category term="piscine" /><summary type="html">Alors vous possédez une piscine chez vous et vous avez envie d’y nager en continu efficacement, sans avoir à percuter la paroi tous les 2 mouvements de brasse / crawl / dos / papillon ? La ceinture de nage est donc faite pour vous.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/static-swim-tie-in-feet.jpg" /><media:content medium="image" url="/assets/images/static-swim-tie-in-feet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
