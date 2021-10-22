@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://ca-ressemble-a-du-fake.github.io/sitemap.xml
