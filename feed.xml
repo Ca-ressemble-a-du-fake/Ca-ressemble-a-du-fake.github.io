@@ -1,4 +1,181 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://ca-ressemble-a-du-fake.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ca-ressemble-a-du-fake.github.io/" rel="alternate" type="text/html" /><updated>2022-08-16T15:45:55+02:00</updated><id>https://ca-ressemble-a-du-fake.github.io/feed.xml</id><title type="html">Ça ressemble à du fake</title><subtitle>Ingrédients : 100% issus d'informations presque fausses</subtitle><entry><title type="html">Panneaux photovoltaïques : minage ou revente ?</title><link href="https://ca-ressemble-a-du-fake.github.io/photovoltaique-minage-ou-revente/" rel="alternate" type="text/html" title="Panneaux photovoltaïques : minage ou revente ?" /><published>2022-07-10T00:00:00+02:00</published><updated>2022-07-10T00:00:00+02:00</updated><id>https://ca-ressemble-a-du-fake.github.io/photovoltaique-minage-ou-revente</id><content type="html" xml:base="https://ca-ressemble-a-du-fake.github.io/photovoltaique-minage-ou-revente/">&lt;p&gt;Vous êtes déjà en possession de cartes graphiques (en anglais GPU) et votre toit est déjà couvert de panneaux solaires ? Découvrez si pour vous enrichir, il vaut mieux miner des ethers ou s’il vaut mieux consommer le moins possible pour revendre sa production à EDF Obligation d’Achat (EDF OA). On va utiliser le matériel déjà installé que l’on va présenter tout de suite.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://ca-ressemble-a-du-fake.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ca-ressemble-a-du-fake.github.io/" rel="alternate" type="text/html" /><updated>2022-08-30T06:58:14+02:00</updated><id>https://ca-ressemble-a-du-fake.github.io/feed.xml</id><title type="html">Ça ressemble à du fake</title><subtitle>Ingrédients : 100% issus d'informations presque fausses</subtitle><entry><title type="html">Comment ajouter une nouvelle adresse crypto à son porte-monnaie Coinbase ?</title><link href="https://ca-ressemble-a-du-fake.github.io/minage-coinbase-ajout-adresse/" rel="alternate" type="text/html" title="Comment ajouter une nouvelle adresse crypto à son porte-monnaie Coinbase ?" /><published>2022-08-18T00:00:00+02:00</published><updated>2022-08-18T00:00:00+02:00</updated><id>https://ca-ressemble-a-du-fake.github.io/minage-coinbase-ajout-adresse</id><content type="html" xml:base="https://ca-ressemble-a-du-fake.github.io/minage-coinbase-ajout-adresse/">&lt;p&gt;Vous avez déjà essayé d’ajouter une nouvelle adresse à votre porte-monnaie (wallet) Coinbase ? Pas si évident que ça depuis la nouvelle version du site. Alors pour vous faire gagner du temps, on vous montre l’astuce!&lt;/p&gt;
+
+&lt;!-- Pub --&gt;
+
+&lt;h4 id=&quot;le-simple-problème-à-résoudre&quot;&gt;Le simple problème à résoudre&lt;/h4&gt;
+
+&lt;p&gt;Vous avez par exemple envie de miner une crypto-monnaie pour laquelle vous ne possédez pas encore d’adresse ? Vous pouvez alors vous rendre sur la page du projet de la monnaie que vous souhaitez miner, et suivre leur tutoriel pas-à-pas pour générer cette fameuse adresse et stocker un nouveau mot de passe pour y accéder ainsi qu’une phrase de récupération, et trente-six choses.&lt;/p&gt;
+
+&lt;p&gt;Cependant, si comme moi vous êtes un peu fainéant et que vous possédez déjà un compte Coinbase et que Coinbase gère cette crypto-monnaie, vous pouvez héberger cette adresse chez eux et ainsi tout centraliser sous leurs bons auspices. Dans ce cas, il faut “simplement” ajouter une adresse pour cette crypto à votre compte Coinbase.&lt;/p&gt;
+
+&lt;p&gt;Sauf que l’ergonomie du site pour cette fonctionnalité d’ajout d’adresse est assez peu évidente, comme si Coinbase ne voulait pas qu’on crée de nouvelles adresses 🤔!&lt;/p&gt;
+
+&lt;p&gt;Pourtant l’&lt;a href=&quot;https://help.coinbase.com/en/coinbase/getting-started/crypto-education/crypto-address&quot;&gt;aide Coinbase&lt;/a&gt; est limpide et tient en trois points :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;se connecter à son compte Coinbase,&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;aller dans ses adresses crypto,&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;et sélectionner “créer une nouvelle adresse”.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sauf que nulle-part apparaît ce fichu bouton “Créer une nouvelle adresse”. Et les forums ne sont pas d’une grande aide, car à la question “&lt;a href=&quot;https://www.reddit.com/r/CoinBase/comments/htd1oe/why_cant_i_create_a_new_wallet_address/&quot;&gt;Pourquoi ne puis-je pas ajouter une nouvelle adresse sur Coinbase&lt;/a&gt;”, on répond (de manière constructive) “parce que Coinbase ça pue”.&lt;/p&gt;
+
+&lt;p&gt;On va donc essayer d’être un chouia plus constructif et surtout utile 🪨⛏️.&lt;/p&gt;
+
+&lt;h4 id=&quot;lastuce-en-image&quot;&gt;L’astuce en image&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Il faut tout d’abord vous &lt;a href=&quot;https://login.coinbase.com/signin&quot;&gt;connecter à votre compte Coinbase&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ensuite cliquez sur votre avatar en haut à droite de l’écran.
+ &lt;img src=&quot;/assets/images/welcomeScreen.jpg&quot; alt=&quot;Ouverture du menu avatar&quot; title=&quot;Cliquer sur son avatar&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Puis dans le menu qui s’ouvre, choisissez “Gérer votre profil”.
+ &lt;img src=&quot;/assets/images/openProfile.jpg&quot; alt=&quot;Gérer son profil&quot; title=&quot;Cliquer sur son gérer vorre profil&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Puis dans la nouvelle page qui s’affiche, cliquez sur la ligne “Crypto addresses”.
+ &lt;img src=&quot;/assets/images/manageProfile.jpg&quot; alt=&quot;Gestion de son profil&quot; title=&quot;Cliquer sur les adresses crypto&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Puis lorsque la liste des adresses crypto s’affiche, juste au dessus, apparaît une liste déroulante dénommée “Actifs négociables” avec un petit triangle orienté vers le bas… sur lequel il ne faut PAS cliquer (car sinon ça ne fait rien)! Il faut plutôt cliquer sur la partie contenant le texte “Actifs négociables” (ou “Tradable assets” si ce n’est pas traduit en français) qui a été hachurée sur la copie d’écran.
+ &lt;img src=&quot;/assets/images/showAddresses.jpg&quot; alt=&quot;Ouverture de la liste déroulante pour ajouter des adresses&quot; title=&quot;Cliquer sur le texte Actifs négociables&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ensuite vous choisissez la crypto pour laquelle vous voulez une adresse (ici par exemple le Zcash).
+ &lt;img src=&quot;/assets/images/selectCoin.jpg&quot; alt=&quot;Sélection d'une crypto disponible&quot; title=&quot;Cliquer sur une crypto&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Et enfin le Graal apparait sous forme d’un bouton 🎺”Créer une nouvelle adresse”🎺 (“Create new address” si ce n’est pas traduit).
+ &lt;img src=&quot;/assets/images/createAddress.jpg&quot; alt=&quot;Apparition du fameux bouton&quot; title=&quot;Cliquer sur le bouton créer une adresse&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Et voilà, c’est fini🏁.&lt;/p&gt;
+
+&lt;p&gt;Si vous souhaitiez comme moi créer deux nouvelles adresses pour &lt;a href=&quot;https://journalducoin.com/analyses/flux-le-projet-crypto-qui-ouvre-la-voie-vers-linternet-de-demain/&quot;&gt;Flux&lt;/a&gt; et &lt;a href=&quot;https://www.neoxa.net/&quot;&gt;Neoxa (en anglais)&lt;/a&gt;, vous vous apercevrez alors que Coinbase ne les prend pas en charge! Pour ces crypto-monnaies, il faudra donc passer par la création manuelle des adresses.&lt;/p&gt;
+
+&lt;h4 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;Et voilà, en “seulement” sept étapes claires et intuitives, on a vu comment ajouter une nouvelle adresse à son compte Coinbase. On espère qu’une mise à jour future de l’ergonomie du site Coinbase rendra les choses plus intuitives ⏳!&lt;/p&gt;</content><author><name>anatole</name></author><category term="crypto" /><category term="astuces" /><category term="tutoriel" /><category term="crypto" /><category term="coinbase" /><summary type="html">Vous avez déjà essayé d’ajouter une nouvelle adresse à votre porte-monnaie (wallet) Coinbase ? Pas si évident que ça depuis la nouvelle version du site. Alors pour vous faire gagner du temps, on vous montre l’astuce!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ca-ressemble-a-du-fake.github.io/assets/images/coinbase_on_mobile.jpg" /><media:content medium="image" url="https://ca-ressemble-a-du-fake.github.io/assets/images/coinbase_on_mobile.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Miner des ethers sans payer l’électricité (ni des impôts), vous en rêviez ?</title><link href="https://ca-ressemble-a-du-fake.github.io/minage-ethereum-gratuit/" rel="alternate" type="text/html" title="Miner des ethers sans payer l’électricité (ni des impôts), vous en rêviez ?" /><published>2022-07-11T00:00:00+02:00</published><updated>2022-07-11T00:00:00+02:00</updated><id>https://ca-ressemble-a-du-fake.github.io/minage-ethereum-gratuit</id><content type="html" xml:base="https://ca-ressemble-a-du-fake.github.io/minage-ethereum-gratuit/">&lt;p&gt;Vous êtes déjà en possession de cartes graphiques (en anglais GPU) et votre toit est déjà couvert de panneaux solaires ? Alors découvrez comment vous enrichir en minant des ethers sans impacter votre facture électrique et sans devoir déclarer vos profits aux impôts.&lt;/p&gt;
+
+&lt;h4 id=&quot;objectif-visé&quot;&gt;Objectif visé&lt;/h4&gt;
+
+&lt;p&gt;L’objectif de ma modeste installation minière (&lt;a href=&quot;/photovoltaique-to-mine-or-to-revendre-a-EDF/&quot;&gt;présentée dans article précédent&lt;/a&gt;) est de générer suffisamment d’ether pour acheter des jeux vidéos &lt;a href=&quot;https://fr.wikipedia.org/wiki/Steam&quot;&gt;Steam&lt;/a&gt; que l’on peut payer en ether (chez certains revendeurs), tout en ne minant qu’aux heures d’ensoleillement suffisant afin que la production électrique des panneaux solaires couvre la consommation de la plateforme minière.&lt;/p&gt;
+
+&lt;p&gt;Les jeux reviennent donc à 0€ grâce aux panneaux solaires, et il n’y a aucun impôt à déclarer puisqu’&lt;a href=&quot;https://www.economie.gouv.fr/cedef/regime-fiscal-cryptomonnaies&quot;&gt;on ne convertit pas les ethers en Euros&lt;/a&gt; et qu’on en paye pas de TVA sur l’électricité autoconsommée (puisqu’elle vient des panneaux solaires et pas du réseau). En outre, comme on ne passe pas par une plateforme américaine (ex Coinbase, Binance, …), il n’y a pas de commission. On paie juste les frais de transaction (en &lt;a href=&quot;https://cryptoast.fr/gas/&quot;&gt;gaz&lt;/a&gt;) du réseau ether. Et si l’on s’y prend bien en choisissant les bons jours (week-end) et les bons horaires (voir sur &lt;a href=&quot;https://ethereumprice.org/gas/&quot;&gt;ici&lt;/a&gt;) pour faire ses achats en crypto-monnaies, on ne paie que 3 ou 4 gwei de frais de transaction.&lt;/p&gt;
+
+&lt;p&gt;Pour arriver à nos fins (allumer / éteindre son ordinateur&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; automatiquement), il est donc utile de savoir programmer son ordinateur&lt;sup id=&quot;fnref:1:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, comme ça même en notre absence le minage a lieu.&lt;/p&gt;
+
+&lt;!-- Pub --&gt;
+
+&lt;h4 id=&quot;aparté--est-ce-bien-rentable-&quot;&gt;Aparté : Est-ce bien rentable ?&lt;/h4&gt;
+
+&lt;p&gt;Avant de voir la méthode technique pour arriver à nos fins (démarrer le minage aux heures ensoleillées, l’éteindre pour la nuit pour ne pas payer l’électricité pendant le minage), penchons-nous sur le coût d’exploitation (sans casse) et les profits à espérer.&lt;/p&gt;
+
+&lt;h5 id=&quot;quel-est-limpact-du-minage-sur-sa-facture-délectricité-&quot;&gt;Quel est l’impact du minage sur sa facture d’électricité ?&lt;/h5&gt;
+
+&lt;p&gt;On va s’intéresser quelques instants au coût électrique du minage avec la plateforme décrite précédement et pour un kWh à 0,17 € (&lt;a href=&quot;https://particulier.edf.fr/content/dam/2-Actifs/Documents/Offres/Grille_prix_Tarif_Bleu.pdf&quot;&gt;selon EDF&lt;/a&gt;). Grâce au wattmètre inséré dans la prise, on mesure une consommation d’environ 620 W (soit \(0,17\times0,620 = 0,105 €\) pour chaque heure de fonctionnement).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/wattmeter.jpg&quot; alt=&quot;Wattmètre mesurant la consommation de la plateforme minière&quot; title=&quot;Wattmètre mesurant la consommation de la plateforme minière&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Donc si on le rapporte à une année (8760 h) de fonctionnement continu, ça nous donne \(8760\times0,105 = 923 €\) de plus sur la facture annuelle du fournisseur d’électricité. Près de 1000€ rien que pour payer la facture électrique!!! Si elles remplissent bien les poches de quelqu’uns, les monnaies virtuelles, c’est bien des fournisseurs d’électricité!&lt;/p&gt;
+
+&lt;h5 id=&quot;pour-quel-profit-&quot;&gt;Pour quel profit ?&lt;/h5&gt;
+
+&lt;p&gt;D’après la tableau de bord offert par le &lt;a href=&quot;https://fr.wikipedia.org/wiki/Minage_de_cryptomonnaie#Regroupements_des_mineurs&quot;&gt;bassin de minage&lt;/a&gt;, à l’heure d’écrire ces lignes, le taux de hachage de 184 MH/s mesuré sur l’installation minière produit 0,000110 Ether (Ξ) / h soit près de 1 Ξ par an (0,96 Ξ). Au cours actuel (1600 € / Ξ), ça équivant donc à 1541 € soit un bénéfice positif de \(1541 - 923 = 618 €\) / an. Bien sûr, si le cours de l’ether s’envole, on gagnera (beaucoup) plus, sinon on pourra perdre beaucoup aussi. Et on n’a pas pris en compte ici, le coût initial des cartes graphiques (ici environ 3000 €) car on estime qu’elles pourront être revendues puisqu’elles ne seront pas trop fatiguées, car elles fonctionnent en sous puissance, et à charge (température) constante.&lt;/p&gt;
+
+&lt;h5 id=&quot;et-si-on-a-lélectricité-gratuite-grâce-aux-panneaux-solaires-&quot;&gt;Et si on a l’électricité gratuite grâce aux panneaux solaires ?&lt;/h5&gt;
+
+&lt;p&gt;Si maintenant on supprime le coût de l’énergie, “c’est tout bénef pour nous” me direz-vous ? Oui mais attention, car on ne produira que quand il y aura du soleil.&lt;/p&gt;
+
+&lt;p&gt;Si on émet l’hypothèse d’une durée d’ensoleillement (lien wikipedia) de 2000h, soit 23% de l’année et que l’installation photovoltaïque est suffisante (5 kWc par exemple), alors on pourra certes produire gratuitement des ether, mais en nombre bien moindre (en gros on produira un quart de la production continue).&lt;/p&gt;
+
+&lt;p&gt;Dans le cas de l’installation minière présentée, avec un facteur de charge de 23% (correspondant à la durée d’ensoleillement), on obtient un bénéfice de 352 € (cf \(0,23\times0,000110\times1600\)) à comparer au bénéfice obtenu si on avait revendu cette électricité à EDF OA (EDF Obligation d’Achat) de 124 € (cf \(0,10\times2000\times0,620\)). Par conséquent, tant que le taux de change de l’ether reste au delà de 563 € (cf \(0,620\times\frac{0,10}{0,000110}\)), il serait plus intéressant de miner, comme on l’a détaillé dans &lt;a href=&quot;/photovoltaique-to-mine-or-to-revendre-a-EDF/&quot;&gt;l’article précédent&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;et-maintenant-comment-faire-techniquement-&quot;&gt;Et maintenant comment faire techniquement ?&lt;/h4&gt;
+
+&lt;p&gt;On a vu que même avec une installation minière modeste on pouvait récolter gratuitement quelques miettes d’Ether qui vaudront peut-être un jour de l’or. Voyons dès à présent comment s’y prendre pour démarrer et arrêter son ordinateur à heures fixes. On va présenter deux méthodes sous Linux. L’une a recours à &lt;a href=&quot;http://wikihiveosfr.fr/&quot;&gt;HiveOS&lt;/a&gt; qui est un environnement complet dédié au minage qui remplace le système d’exploitation habituel (ex Windows ou Ubuntu), l’autre utilise une version quelconque de Linux (ex Debian, Ubuntu, …).&lt;/p&gt;
+
+&lt;p&gt;Pour éviter de gaspiller l’électricité lorsque l’ordinateur ne mine pas et qu’on ne s’en sert pas, on souhaite qu’il soit complètement éteint en dehors des périodes de minage (pas de veille).&lt;/p&gt;
+
+&lt;h5 id=&quot;réglages-dans-le-bios&quot;&gt;Réglages dans le BIOS&lt;/h5&gt;
+
+&lt;p&gt;Depuis au moins une dizaine d’années, les ordinateurs fixes sont capables de se réveiller tout seuls à un horaire donné.&lt;/p&gt;
+
+&lt;h5 id=&quot;si-vous-avez-hiveos&quot;&gt;Si vous avez HiveOS&lt;/h5&gt;
+
+&lt;h5 id=&quot;si-vous-navez-pas-hiveos&quot;&gt;Si vous n’avez pas HiveOS&lt;/h5&gt;
+
+&lt;h4 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;En résumé de cet article, on retient que le coût d’exploitation de cette installation minière pourtant modeste, est déjà exhorbitant si on ne profite pas d’une source d’énergie gratuite (ou très bon marché). Pouvoir programmer son installation minière pour qu’elle se déclenche automatiquement à certains horaires permet donc de s’assurer qu’on mine bien en journée. Evidemment cette méthode fonctionne mieux en été qu’en hiver, et elle n’est pas infaillible puisqu’on n’est pas à l’abris d’un temps couvert! Mais c’est déjà bien utile si sa plateforme de minage est reléguée dans le garage et qu’on l’oublie facilement!&lt;/p&gt;
+
+&lt;p&gt;Et si on veut miner quand on n’est pas là, c’est encore plus pratique.&lt;/p&gt;
+
+&lt;p&gt;Pour les impôts, en plus ils ne peuvent pas se baser sur votre consommation électrique pour prouver que vous minez, puisque rien n’est pris au réseau.&lt;/p&gt;
+
+&lt;p&gt;Par contre, si l’on cherche un moyen d’acheter des jeux sans bourse délier, qu’on a déjà du matériel (ex pour faire de l’apprentissage profond (lien wikipedia deep learning), ou pour jouer), alors miner quand on ne se sert pas de sa carte graphique est une option à regarder de près!&lt;/p&gt;
+
+&lt;h5 id=&quot;un-mode-demploi-sur-les-étiquettes-&quot;&gt;Un mode d’emploi sur les étiquettes ?&lt;/h5&gt;
+
+&lt;p&gt;Des pictogrammes placés sur les sangles de pieds montrent comment les enfiler. Mais ce n’est pas toujours simple de les comprendre.&lt;/p&gt;
+
+&lt;h5 id=&quot;idée-générale&quot;&gt;Idée générale&lt;/h5&gt;
+
+&lt;p&gt;L’idée générale à avoir en tête est que la partie de la sangle qui est reliée vers le point fixe doit partir de la voûte plantaire. Les fermetures à clips doivent elles être placées vers l’extérieur du pied pour éviter que lors du battement de crawl ou de dos, les lanières s’entrechoquent et se détendent.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/static-swim-tie-in-feet.jpg&quot; alt=&quot;Sangle correctement mise en place&quot; title=&quot;Sangle correctement mise en place&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;en-pratique-&quot;&gt;En pratique !&lt;/h5&gt;
+
+&lt;p&gt;Une fois qu’on a compris ça, il suffit de :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Déposer les deux cercles en mousse avec les “cordelettes” vers l’avant, et les lanières des clips vers l’intérieur.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/static-swim-step1.jpg&quot; alt=&quot;Mise en place sangle de pieds étape 1&quot; title=&quot;Bien placer les lanières à l'intérieur, entre les 2 cercles&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;Si les lanières des clips sont à l’extérieur, elles se détendront pendant la nage à cause des chocs lors des battements ou de l’ondulation. Dans ce cas il faut les intervertir.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/static-swim-step1-dont.jpg&quot; alt=&quot;Mise en place sangle de pieds étape 1&quot; title=&quot;Intervertir les cercles en mousse si les lanières sont à l'extérieur&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ça offre alors deux cercles dans lesquels on va simplement poser nos talons dedans.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/static-swim-step2.jpg&quot; alt=&quot;Mise en place sangle de pieds étape 2&quot; title=&quot;Poser simplement les talons à l'intérieur des cercles&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Et c’est tout! On ferme les clips, on attache la sangle au point fixe et on nage!&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/static-swim-step3.jpg&quot; alt=&quot;Mise en place sangle de pieds étape 3&quot; title=&quot;Les clips doivent se trouver à l'extérieur des pieds&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;Si lors de cette étape les clips se retrouvent à l’intérieur, c’est que les cercles de mousse ont été intervertis à l’étape 1.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/static-swim-step3-dont.jpg&quot; alt=&quot;Mise en place sangle de pieds étape 3&quot; title=&quot;Intervertir les cercles en mousse si les clips sont à l'intérieur&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;conclusion-1&quot;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;En résumé, cette ceinture de nage est très pratique pour nager sans s’arrêter dans une petite piscine privée. Cependant pour nager dans toutes les nages, il vaut mieux utiliser la sangle de pieds qui autorise tous les mouvements et reste bien confortablement attachée quand elle est bien mise ! Et voilà, maintenant, il ne vous reste plus qu’à enchaîner les longueurs (virtuellement) ! Bon entraînement 🏊!&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Une plateforme minière n’est autre qu’un ordinateur équipé de plusieurs cartes graphiques. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>anatole</name></author><category term="minage" /><category term="économies" /><category term="tutoriel" /><category term="minage" /><category term="ethereum" /><category term="carte graphique" /><summary type="html">Vous êtes déjà en possession de cartes graphiques (en anglais GPU) et votre toit est déjà couvert de panneaux solaires ? Alors découvrez comment vous enrichir en minant des ethers sans impacter votre facture électrique et sans devoir déclarer vos profits aux impôts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ca-ressemble-a-du-fake.github.io/assets/images/mining-rig.jpg" /><media:content medium="image" url="https://ca-ressemble-a-du-fake.github.io/assets/images/mining-rig.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Panneaux photovoltaïques : to mine or to revendre à EDF ?</title><link href="https://ca-ressemble-a-du-fake.github.io/photovoltaique-to-mine-or-to-revendre-a-EDF/" rel="alternate" type="text/html" title="Panneaux photovoltaïques : to mine or to revendre à EDF ?" /><published>2022-07-10T00:00:00+02:00</published><updated>2022-07-10T00:00:00+02:00</updated><id>https://ca-ressemble-a-du-fake.github.io/photovoltaique-to-mine-or-to-revendre-a-EDF</id><content type="html" xml:base="https://ca-ressemble-a-du-fake.github.io/photovoltaique-to-mine-or-to-revendre-a-EDF/">&lt;p&gt;Vous êtes déjà en possession de cartes graphiques (en anglais GPU) et votre toit est déjà couvert de panneaux solaires ? Découvrez si pour vous enrichir, il vaut mieux miner des ethers ou s’il vaut mieux consommer le moins possible pour revendre sa production à EDF Obligation d’Achat (EDF OA). On va utiliser le matériel déjà installé que l’on va présenter tout de suite.&lt;/p&gt;
 
 &lt;h4 id=&quot;présentation-de-linstallation-solaire-et-de-la-plate-forme-de-minage&quot;&gt;Présentation de l’installation solaire et de la plate-forme de minage&lt;/h4&gt;
 
