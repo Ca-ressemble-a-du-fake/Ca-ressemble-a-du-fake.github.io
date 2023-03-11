@@ -1,0 +1,60 @@
+# Site
+name: "Ça ressemble à du fake"
+title: "Ça ressemble à du fake"
+description: "Ingrédients : 100% issus d'informations presque fausses"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseUrlForSharing: 'https://ca-ressemble-a-du-fake.github.io'
+url: 'https://ca-ressemble-a-du-fake.github.io'
+baseurl: ''
+disqus: 'ca-ressemble-a-du-fake'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  anatole:
+    name: Anatole
+    display_name: Anatole Lefranc
+    avatar: 'assets/images/avatar.png'
+    gravatar: 
+    email: 
+    web: https://caressembleadufake.github.io
+    twitter: 
+    description: "L'auteur de ce blog est un nageur amateur, cycliste quotidien, passionné de technologie. Il est un hoministe acharné sur certains sujets -notamment ceux touchant au plaisir masculin- et féministe sur les autres sujets."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, videos, photos, Illustrations, '*.ods', '*.odg', '*.xcf']
