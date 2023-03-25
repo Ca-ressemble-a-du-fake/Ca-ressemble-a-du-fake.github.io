@@ -42,13 +42,24 @@ Voici donc ce que vous pouvez rapidement obtenir :
 <iframe width="960" height="540" src="https://www.youtube.com/embed/rLljOzJ1Bgg" title="DIY : Récupérateur d&#39;eau de 1000 L en film étirable (INTRO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-#### Quel matériel ?
-Section en cours de rédaction
-
-
 
 #### Dimensionnement et nombre de couches de film étirable
-Section en cours de rédaction
+Avant d'aller chercher du matériel, il vous faut déterminer les dimensions de votre cuve, et l'épaisseur des parois.
+##### Dimensionnement de la cuve
+Pour moi, c'était simple, la cuve ne devait pas dépasser la largeur du pan de mur, ni empiéter trop sur la terrasse, et elle devait faire 1000 L. Ça l'a donc amener à avoir les côtes suivantes (en m) : 0,70 x 0,84 x 1,5 soit un volume de 882 L. Ce n'est pas tout à fait 1000 L, mais comme les tores d'acier font 6 m, ça me permet d'en découper quatre par tore.
+
+![Côtes de mon récupérateur](/assets/images/dimensions.jpg "Côtes de mon récupérateur")
+
+##### Nombre de couches de film étirable
+Passons maintenant à l'épaisseur des parois, soit le nombre de couches de film étirable que vous devrez superposer pour que les parois résistent à la pression de l'eau. 
+
+On se met alors dans le cas le plus défavorable, c'est-à-dire, lorsque le cuve est pleine et on se place au point le plus bas (altitude 0) d'une des plus grandes parois latérales. La force qu'on cherche vaut $$F =p\times S_{lat}$$ avec $$S_{lat} = 0,84 \times 1,50 = 1,26 m^2$$ et $$p_{max} = \rho_{eau} \times g \times H_{max} = 1000 \times 9,81 \times 1,5 = 14715 Pa$$. Donc si on applique la première formule on a $$F_{max} = 14715 \times 1,26 \approx 18,5 \times 10^3 N$$.
+
+Par conséquent, au point le plus bas, il faudra que la paroi latérale résiste à une force d'environ 18,5 kN ou 1850 kg. Reste donc à déterminer combien de couches de film étirable il va falloir placer pour supporter cette charge.
+
+#### Quel matériel ?
+Au niveau du matériel nécessaire, il ne faut pas grand chose : suffisamment de barres pour faire la structure, puis du film étirable pour faire les parois.
+Pour ma part, j'ai utilisé des tores en acier, puisque j'en avais quelques-unes.
 
 
 #### Fabrication de la structure
