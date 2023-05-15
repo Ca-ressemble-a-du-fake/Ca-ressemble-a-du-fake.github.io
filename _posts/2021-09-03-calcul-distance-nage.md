@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comment savoir quelle distance on a nagé avec un élastique de nage ?"
-author: anatole
+author: caraduf
 categories: [ sport, natation, tutoriel ]
 tags: [ceinture de nage, piscine]
 image: assets/images/static-swim-distance.jpg

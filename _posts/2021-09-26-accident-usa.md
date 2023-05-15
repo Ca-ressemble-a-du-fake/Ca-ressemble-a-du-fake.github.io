@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rencontre du désert - Accident dans le nouveau Mexique dans les années 70 : solution pas-à-pas"
-author: anatole
+author: caraduf
 categories: [ jeu vidéo, premiers secours ]
 tags: [accident, secourisme]
 image: assets/images/accident-usa.jpg

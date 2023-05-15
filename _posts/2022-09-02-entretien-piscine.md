@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Témoignage poignant💧: \"je n’ajoute JAMAIS d'eau à ma piscine\""
-author: anatole
+author: caraduf
 categories: [ astuces, économies, vie pratique, natation ]
 tags: [piscine, sécheresse, eau]
 image: assets/images/stop-water.jpg

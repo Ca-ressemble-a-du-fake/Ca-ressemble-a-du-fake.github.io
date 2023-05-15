@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Robot de piscine électrique VS hydraulique ?"
-author: anatole
+author: caraduf
 categories: [ astuces, économies, vie pratique, natation ]
 tags: [piscine, sécheresse, eau]
 image: assets/images/hydrau-vs-elec.jpg

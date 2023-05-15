@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Découvrez comment il mine au soleil gratuitement et écologiquement"
-author: anatole
+author: caraduf
 categories: [ minage, économies, tutoriel ]
 tags: [minage, ethereum, carte graphique]
 image: assets/images/minage-au-soleil.jpg

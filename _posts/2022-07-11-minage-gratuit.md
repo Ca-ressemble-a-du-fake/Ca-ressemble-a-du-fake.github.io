@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Miner des cryptos sans payer l'électricité (ni des impôts), vous en rêviez ?"
-author: anatole
+author: caraduf
 categories: [ minage, économies, tutoriel ]
 tags: [minage, ethereum, carte graphique]
 image: assets/images/mining-rig.jpg

@@ -13,9 +13,9 @@ permalink: /:title/
 
 # Authors
 authors:
-  anatole:
-    name: Anatole
-    display_name: Anatole Lefranc
+  caraduf:
+    name: Caraduf
+    display_name: Caraduf
     avatar: 'assets/images/avatar.png'
     gravatar: 
     email: 

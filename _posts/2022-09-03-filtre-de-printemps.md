@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cet investissement de 25€ qui a bouleversé l'entretien de ma piscine"
-author: anatole
+author: caraduf
 categories: [ astuces, économies, vie pratique, natation ]
 tags: [piscine, sécheresse, eau]
 image: assets/images/filtre-printemps-lowres.jpg

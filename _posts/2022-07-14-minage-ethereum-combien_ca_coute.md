@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Le minage d'Ether est-il (encore) rentable ?"
-author: anatole
+author: caraduf
 categories: [ minage, électricité ]
 tags: [minage, ethereum, carte graphique]
 image: assets/images/rentabilite-minage.jpg

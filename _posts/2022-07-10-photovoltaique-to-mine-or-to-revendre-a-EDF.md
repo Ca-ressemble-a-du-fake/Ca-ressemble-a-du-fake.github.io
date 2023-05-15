@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Panneaux photovoltaïques : to mine or to revendre à EDF ?"
-author: anatole
+author: caraduf
 categories: [ minage, vie pratique, énergie ]
 tags: [panneaux solaires, minage, ethereum]
 image: assets/images/mine-or-sell-energy.jpg

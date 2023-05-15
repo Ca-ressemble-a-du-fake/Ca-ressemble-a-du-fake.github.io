@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comment utiliser la sangle de pieds de l'élastique de nage ?"
-author: anatole
+author: caraduf
 categories: [ sport, natation, tutoriel ]
 tags: [ceinture de nage, piscine]
 image: assets/images/static-swim-tie-in-feet.jpg

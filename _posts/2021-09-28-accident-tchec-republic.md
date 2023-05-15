@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Incident ferroviaire en République Tchèque : solution pas-à-pas"
-author: anatole
+author: caraduf
 categories: [ jeu vidéo, premiers secours ]
 tags: [accident, secourisme]
 image: assets/images/Accident-Republique-Tcheque.jpg

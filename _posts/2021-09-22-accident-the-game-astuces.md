@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Accident - 3 astuces indispensables à connaître"
-author: anatole
+author: caraduf
 categories: [ jeu vidéo, premiers secours ]
 tags: [accident, secourisme, astuces]
 image: assets/images/accident-astuces.jpg

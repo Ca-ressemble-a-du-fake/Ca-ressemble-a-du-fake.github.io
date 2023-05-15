@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Clonage de voix avec Toucan"
-author: anatole
+author: caraduf
 categories: [ intelligence artificielle, clonage de voix, linux, synthèse vocale ]
 tags: [IA, clonage voix, tts]
 image: assets/images/toucan.png

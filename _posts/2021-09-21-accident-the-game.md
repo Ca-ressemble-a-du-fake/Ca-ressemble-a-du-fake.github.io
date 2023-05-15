@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cette chose qu'on devrait regarder plus souvent avant de prendre le volant"
-author: anatole
+author: caraduf
 categories: [ jeu vidéo, premiers secours ]
 tags: [accident, secourisme]
 image: assets/images/accident.jpg

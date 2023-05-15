@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comment ajouter une nouvelle adresse crypto à son porte-monnaie Coinbase ?"
-author: anatole
+author: caraduf
 categories: [ crypto, astuces, tutoriel ]
 tags: [crypto, coinbase]
 image: assets/images/coinbase_on_mobile.jpg

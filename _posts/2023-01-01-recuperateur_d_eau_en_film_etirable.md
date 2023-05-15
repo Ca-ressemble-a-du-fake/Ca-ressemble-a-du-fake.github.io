@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Récupérateur d'eau maison de 1000 L en film étirable"
-author: anatole
+author: caraduf
 categories: [ bricolage, écologie, vie pratique ]
 tags: [récupérateur d'eau de pluie, sécheresse, eau]
 image: assets/images/cover-recup2.jpg

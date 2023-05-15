@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tempête de neige - Accident à Leningradskaya oblast' en Russie : solution pas-à-pas"
-author: anatole
+author: caraduf
 categories: [ jeu vidéo, premiers secours ]
 tags: [accident, secourisme]
 image: assets/images/accident-russia.jpg
