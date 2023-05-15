@@ -19,7 +19,7 @@ authors:
     avatar: 'assets/images/avatar.png'
     gravatar: 
     email: 
-    web: https://caressembleadufake.github.io
+    web: https://ca-ressemble-a-du-fake.github.io
     twitter: 
     description: "L'auteur de ce blog est un nageur amateur, cycliste quotidien, passionné de technologie. Il est un hoministe acharné sur certains sujets -notamment ceux touchant au plaisir masculin- et féministe sur les autres sujets."
 
@@ -30,6 +30,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jemoji
     
 # Archives
 jekyll-archives:
