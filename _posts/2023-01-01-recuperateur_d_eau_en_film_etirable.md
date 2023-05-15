@@ -6,19 +6,26 @@ categories: [ bricolage, écologie, vie pratique ]
 tags: [récupérateur d'eau de pluie, sécheresse, eau]
 image: assets/images/cover-recup2.jpg
 description: "Voici un guide de construction d'un récupérateur d'eau de pluie de 1000 L, réalisé en film étirable."
-featured: true
+featured: false
 hidden: true
 usemathjax: true
 published: true
 ---
 
-L'été 2022 a été particulièrement sec en France métropolitaine. Et 2023 (comme les suivantes) ne s'annonce pas beaucoup plus humide. Alors pour aider le potager et les jeunes végétaux de son jardin à passer cette période délicate, il est utile de se constituer une bonne réserve d'eau de pluie grâce à un récupérateur d'eau. Mais pourquoi acheter et dépenser plusieurs centaines d'euros pour un récupérateur imposant, terriblement lourd et difficilement recyclable, alors qu'on peut s'en fabriquer un, à la taille souhaitée, pour un prix réduit, et facilement recyclable ?
+L'été 2022 a été particulièrement sec en France métropolitaine. Et 2023 (comme les suivantes) ne s'annonce pas beaucoup plus humide. Alors pour aider le potager et les jeunes végétaux de son jardin à passer cette période estivale délicate, il est utile de se constituer une bonne réserve d'eau de pluie grâce à un récupérateur d'eau. Mais pourquoi acheter et dépenser plusieurs centaines d'euros pour un récupérateur imposant, terriblement lourd et difficilement recyclable, alors qu'on peut s'en fabriquer un, à la taille souhaitée, pour un prix réduit, et facilement recyclable ?
 
 C'est tout l'enjeu du récupérateur d'eau de pluie en film étirable (le film plastique avec lequel on recouvrait[^1] les aliments avant de les mettre au frigo) que je vais vous présenter et dont je vais vous donner tous les secrets de fabrication en textes et en vidéos, pour que vous puissiez le fabriquer à votre tour, l'améliorer et partager vos réalisations.
 
 Vous le constaterez en parcourant cet article, ce récupérateur d'eau maison est facile à réaliser pour peu qu'on soit un tantinet bricoleur (le niveau novice suffira :wink:). Il y a encore des points à améliorer, mais je souhaite partager ce projet à ce stade pour donner des idées à certains, et utiliser l'intelligence collective pour l'améliorer plus rapidement. Car, le plus long est pour moi d'attendre que la pluie veuille bien tomber en quantité suffisante pour tester la cuve, opérer les modifications nécessaires et... de nouveau attendre la pluie. Je rêve donc de pluies abondantes qui feraient déborder mon récupérateur d'eau. Pour le moment, ce n'est qu'un rêve, je n'ai pu le vider que trois ou quatre fois (~ 500 L à chaque vidage) en huit mois.
 
 L'avantage de cette attente est que ça me permet de prendre du recul, de bieeeeeeen cogiter à tête ultra reposée, et donc de pouvoir vous apporter dans cet article un retour d'expérience qui vous évitera de commettre les mêmes erreurs que moi! Pour les plus pressés qui veulent avoir les instructions directement, [voici le guide express du second récupérateur d'eau]({% post_url 2023-04-01-recuperateur_d_eau_en_film_etirable_deuxieme_proto %}) que j'ai réalisé en me servant de mon expérience du premier.
+
+> CE TUTO N'EST PLUS ACTUEL (NE LE SUIVEZ PAS! ÇA NE FONCTIONNE PAS COMME IL FAUT). IL NE FAUT PAS EMPRISONNER LA BÂCHE À L'INTÉRIEUR DES PAROIS CAR ELLE DOIT RESTER LIBRE POUR NE PAS SE DÉCHIRER SOUS LA PRESSION DE L'EAU. SI VOUS L'AVEZ SUIVI ET QUE ÇA FUIT, METTEZ SIMPLEMENT UNE NOUVELLE BÂCHE À L'INTÉRIEUR (SANS RIEN DÉTRUIRE DES PAROIS). C'EST CE QUE J'AI FAIT EN SUIVANT LES INSTRUCTIONS DU [PROTOTYPE 2]({% post_url 2023-04-01-recuperateur_d_eau_en_film_etirable_deuxieme_proto %}) (POUR UNE HAUTEUR DE 1,5 M, IL FAUT SIMPLEMENT FAIRE 40 TOURS POUR LA RANGÉE DU BAS, PUIS 30 POUR CELLE DU DESSUS, PUIS 17, PUIS 5 POUR LA RANGÉE LA PLUS HAUTE):
+
+![Récupérateur en version verticale](/assets/images/proto_1.jpg "Récupérateur en version verticale")
+
+> CE TUTO EST LAISSÉ TEL QUEL POUR MONTRER LE CHEMINEMENT DE MA PENSÉE POUR ARRIVER AU [PROTOTYPE 2 UTILISABLE]({% post_url 2023-04-01-recuperateur_d_eau_en_film_etirable_deuxieme_proto %}) ET POUR DONNER DES IDÉES À CEUX QUI VOUDRAIENT SE PASSER D'UNE POMPE (CF MONTAGE D'UN ROBINET).
+
 
 
 
@@ -57,16 +64,15 @@ Voici mon cahier des charges très succinct. Ce récupérateur d'eau "maison" do
 - Résister aux UV (ne pas se déliter)
 - Pouvoir être vidanger
 - Pouvoir être vider partiellement
-- (optionnel) Indiquer le niveau de remplissage
 
 Ce qui est marqué "optionnel" pourra être fait dans un second temps.
 
 
 #### Quel matériel requis ?
 Au niveau du matériel nécessaire, il ne faut pas grand chose : suffisamment de barres pour faire la structure, puis une bâche pour peintre (4m x 5m) et du film étirable pour faire les renforts.
-Pour ma part, j'ai utilisé des tores en acier, puisque j'en avais quelques-unes et que j'ai un poste à souder à l'arc. Des bambous pourraient aussi faire l'affaire, car c'est le film plastique qui supportera la pression de l'eau et maintiendra la structure. Par conséquent, la qualité majeure de cette structure devra être sa capacité à résister à la corrosion / pourrissement.
+Pour ma part, j'ai utilisé des tores en acier, puisque j'en avais quelques-uns et que j'ai un poste à souder à l'arc. Des bambous pourraient aussi faire l'affaire, car c'est le film plastique qui supportera la pression de l'eau et maintiendra la structure. Par conséquent, la qualité majeure de cette structure devra être sa capacité à résister à la corrosion / pourrissement.
 
-- 2 tores en acier de 6 m
+- 3 tores en acier de 6 m
 
 #### Dimensionnement et nombre de couches de film étirable
 Avant d'aller chercher du matériel, il vous faut déterminer les dimensions de votre cuve, et l'épaisseur des parois.
