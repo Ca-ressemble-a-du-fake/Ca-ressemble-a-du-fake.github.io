@@ -12,7 +12,7 @@ usemathjax: true
 published: true
 ---
 
-Dans ce guide, je vous présente la démarche éprouvée pour bâtir votre propre récupérateur d'eau de pluie de 800 L en film étirable. Ce guide est une version améliorée du [premier prototype de récupérateur d'eau]({% post_url 2023-01-01-recuperateur_d_eau_en_film_etirable %}), et illustre bien le fait qu'on apprend par ces erreurs! Il conviendra tout particulièrement à ceux qui sont pressés de réaliser un récupérateur d'eau maison à moindre frais pour cet été.
+Dans ce guide de bricolage, je vous présente la démarche éprouvée pour bâtir votre propre récupérateur d'eau de pluie de 800 L en film plastique étirable. Ce guide est une version améliorée du [premier prototype de récupérateur d'eau]({% post_url 2023-01-01-recuperateur_d_eau_en_film_etirable %}), et illustre bien le fait qu'on apprend par ces erreurs! Il conviendra tout particulièrement à ceux qui sont pressés de réaliser un récupérateur d'eau maison à moindre frais pour cet été.
 
 
 
@@ -274,24 +274,67 @@ Ce même ChatGPT conseille aussi un [produit larvicide (Bacillus thuringiensis i
 Ce récupérateur d'eau étant situé au Nord, il ne verra pas le soleil directement. Je n'ai donc pas mis de film noir anti-UV, sauf sur la partie haute, pour permettre de ranger la partie superflue de la membrane intérieure. Je serai peut-être amené à en mettre pour éviter la prolifération des algues (car celles-ci ne se développent pas dans le noir).
 
 
-#### Avantages par rapport au premier prototype
+#### Avantages du récupérateur d'eau en film étirable
+
+##### Avantages par rapport au premier prototype
 
 Dans le premier prototype, la bâche plastique était emprisonnée dans les parois et le récupérateur était vertical. Au contraire, dans ce nouveau prototype, la bâche est simplement posée à l'intérieur de la cavité délimitée par les parois, et le récupérateur est cette fois horizontal. Cela apporte plusieurs avantages.
 
-##### Consommation moindre de film étirable
+###### Consommation moindre de film étirable
 
 L'avantage principal de cette méthode est de consommer bien moins de film plastique que le premier prototype, lors des différentes phases. 
 
 Ainsi lors de la réalisation des parois, il faut environ un tiers de film en moins, et en cas de percement de la membrane étanche, on en remet une autre, sans avoir à refaire les parois. C'est donc beaucoup plus économique et écologique. Bien sûr ça demande beaucoup moins de travail et le remplacement de membrane intérieure peut se faire rapidement.
 
-##### Préservation de la structure
+###### Préservation de la structure
 
 D'autre part, avec cette méthode, la structure en acier (ou en bambou) n'est plus en contact avec l'eau du récupérateur qui reste confinée à l'intérieur de la membrane étanche. La structure se dégradera donc beaucoup moins vite.
 
-##### Réalisation beaucoup plus aisée
+###### Réalisation beaucoup plus aisée
 
 Ensuite, cette méthode est beaucoup plus facile à réaliser et à améliorer : on entoure, on remplit d'eau et si ça se déforme trop, on vide, on rajoute des "tours" de film plastique, et on re-remplit.
 
+##### Avantages / inconvénients par rapport aux autres récupérateurs d'eau maison
+
+On trouve sur d'autres sites des tutos pour réaliser des récupérateurs d'eau maison, notamment en palette de bois et c'est très bien. Pour vous aider à choisir le récupérateur d'eau maison qui vous irait le mieux, je vous ai fait un bref comparatif entre les deux types (palette / film plastique) :
+
+
+|-------|-------|------|
+| Type de récupérateur | Avantages | Inconvénients |
+|-------|--------|---------|
+| Film étirable | Léger, réalisation rapide, possibilité de le faire en bambou | Nécessite de savoir souder à l'arc (mais pas d'être un pro) si structure acier |
+| Palettes | Aspect plus naturel | Lourd, réalisation fastidieuse |
+|-------|--------|---------|
+{:.table-striped}
+
+
+
+###### Très léger
+Par rapport aux récupérateurs d'eau de pluie maison, comme ceux en palettes de bois, le récupérateur en film étirable est bien plus léger. On peut donc le transporter aisément pour l'installer ou le mettre ailleurs. 
+
+###### Ne requiert pas de gros muscles pour la manutention
+Cet aspect n'est pas négligeable car toutes les phases de réalisation de ce récupérateur peuvent se réaliser seul et sans effort :
+- transport des barres (acier ou bambou) de 6 m (x2) ou 3 m (x4)
+- réalisation de la structure
+- transport sur le lieu de collecte de l'eau
+- maintenance du récupérateur
+
+Au contraire, la seule collecte des palettes peut déjà s'avérer fatigante!
+
+
+###### Réalisation plus rapide
+
+Pour réaliser la structure, il suffit de couper les barres (acier ou bambou) à la bonne taille, puis de les assembler entre-elles (2 ou 3 heures pour un bricoleur très amateur comme moi), puis d'enrouler le film plastique (attention à la tête qui tourne), et enfin de glisser la bâche de peintre à l'intérieur. Donc en une demi journée, c'est fait. 
+
+Avec les palettes, suivant la méthode qu'on utilise, s'il faut d'abord sortir les lattes de la palette, puis les réassembler sur le récupérateur, il faut beaucoup plus de temps.
+
+###### Formes plus diverses
+Bien sûr qu'avec des palettes on peut aussi faire un récupérateur d'eau de 1,5 m de long, mais ce sera plus difficile, il faudra trouver les palettes de cette taille. Avec le récupérateur en film étirable, c'est plus facile, car il suffit de découper les barres de la structure à bonne taille.
+
+###### Savoir souder à l'arc
+Pour assembler la structure, si vous optez pour une structure en acier, vous devez savoir souder à l'arc. C'est un prérequis indispensable. Par contre pas besoin d'être un expert en soudure à l'arc, on n'est pas dans l'industrie nucléaire, vos soudures ne seront pas vérifiées aux rayons X! 
+
+Néanmoins, si vous ne savez pas souder à l'arc, vous avez la possibilité d'utiliser des bambous et de les assembler entre-eux. J'essaierai prochainement de faire un guide là-dessus.
 
 
 #### Conclusion
